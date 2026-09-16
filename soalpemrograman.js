@@ -508,3 +508,4 @@ console.log(cetakFormasiSegitiga());
 
 
 console.log(kontol)
+console.log(kontol)
