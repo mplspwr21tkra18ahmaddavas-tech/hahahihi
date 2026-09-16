@@ -507,3 +507,4 @@ console.log(cetakFormasiDiagonal());
 console.log(cetakFormasiSegitiga());
 
 
+console.log(kontol)
