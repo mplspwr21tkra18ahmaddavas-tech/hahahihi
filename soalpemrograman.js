@@ -505,7 +505,3 @@ console.log("50. Total Sum Prima (1-20)     :", soal50(1, 20)); // 2+3+5+7+11+13
 
 console.log(cetakFormasiDiagonal());
 console.log(cetakFormasiSegitiga());
-
-
-console.log(kontol)
-console.log(kontol)
