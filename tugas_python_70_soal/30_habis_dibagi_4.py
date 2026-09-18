@@ -1,7 +1,3 @@
-# Soal: Program menampilkan bilangan yang habis dibagi 4 dari n_awal hingga n_akhir
-# Penjelasan: Menampilkan bilangan habis dibagi 4
-# Asumsi: Termasuk batas
-
 awal = int(input("Masukkan awal: "))
 akhir = int(input("Masukkan akhir: "))
 

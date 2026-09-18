@@ -1,7 +1,3 @@
-# Soal: Program untuk menampilkan jumlah total bilangan Prima dari n_awal hingga n_akhir
-# Penjelasan: Menjumlahkan semua bilangan prima di rentang tersebut
-# Asumsi: Sama seperti soal 49 tapi dijumlahkan
-
 awal = int(input("Masukkan n_awal: "))
 akhir = int(input("Masukkan n_akhir: "))
 

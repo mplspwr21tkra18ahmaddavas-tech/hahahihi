@@ -1,7 +1,3 @@
-# Soal: Program untuk menampilkan bilangan Prima dari n_awal hingga n_akhir
-# Penjelasan: Menampilkan bilangan prima di rentang tertentu
-# Asumsi: Prima adalah bilangan >1 yang hanya habis dibagi 1 dan dirinya sendiri
-
 awal = int(input("Masukkan n_awal: "))
 akhir = int(input("Masukkan n_akhir: "))
 

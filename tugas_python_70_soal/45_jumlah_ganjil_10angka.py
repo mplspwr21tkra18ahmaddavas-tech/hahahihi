@@ -1,7 +1,3 @@
-# Soal: Masukkan beberapa angka (min 10) dengan looping, kemudian hitung jumlah bilangan ganjil dari beberapa masukan tersebut
-# Penjelasan: Menghitung bilangan ganjil dari 10 angka
-# Asumsi: 10 angka
-
 print("Masukkan 10 angka:")
 
 jumlah_ganjil = 0
